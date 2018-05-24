@@ -17,7 +17,7 @@
     "express": "~4.1.1",
     "geolib": "^2.0.14",
     "lodash": "^2.4.1",
-    "logfmt": "~1.1.2",
+    "logfmt": "~1.2.1",
     "teslams": "~0.9.4"
   },
   "devDependencies": {
