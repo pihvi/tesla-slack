@@ -16,8 +16,8 @@
     "body-parser": "~1.0.2",
     "express": "~4.1.1",
     "geolib": "^2.0.14",
-    "lodash": "^2.4.1",
-    "logfmt": "~1.1.2",
+    "lodash": "^4.17.21",
+    "logfmt": "~1.2.1",
     "teslams": "~0.9.4"
   },
   "devDependencies": {
